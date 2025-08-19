@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/vite-env.d.ts","./src/game/GameConfig.ts","./src/game/LevelScene.ts","./src/game/levels.ts","./src/services/api.ts","./src/services/player.ts","./src/state/store.ts","./src/ui/App.tsx","./src/utils/hash.ts","./src/utils/rng.ts"],"version":"5.9.2"}
